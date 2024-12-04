@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"fmt"
 	"os"
-) 
+)  
 
 func main() {
 	interest := "like cricket alot"
